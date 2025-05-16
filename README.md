@@ -26,7 +26,7 @@ This Medical Knowledge Assistant is an intelligent chatbot built with Streamlit,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/medical-knowledge-assistant.git
+   git clone https://github.com/krishna87777/medicalchatbot
    cd medical-knowledge-assistant
    ```
 
